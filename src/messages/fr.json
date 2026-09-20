@@ -1,0 +1,197 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "properties": "Logements",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "badge": "L'immobilier en toute simplicité",
+    "title": "Trouvez un endroit que vous",
+    "highlight": "aimerez appeler chez vous.",
+    "description": "Découvrez des appartements, villas et logements soigneusement sélectionnés avec Scany Home.",
+    "location": "Localisation",
+    "locationPlaceholder": "Rechercher un quartier",
+    "propertyType": "Type de logement",
+    "allProperties": "Tous les logements",
+    "apartment": "Appartement",
+    "villa": "Villa",
+    "rent": "Durée",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "search": "Rechercher",
+    "properties": "Logements",
+    "support": "Assistance",
+    "languages": "Langues"
+  },
+
+  "featuredProperties": {
+    "eyebrow": "Nos logements",
+    "title": "Logements à découvrir",
+    "description": "Découvrez une sélection de logements disponibles avec Scany Home.",
+    "viewAll": "Voir tous les logements",
+    "available": "Disponible",
+    "startingFrom": "À partir de",
+    "month": "mois",
+
+    "items": {
+      "1": {
+        "title": "Appartement moderne",
+        "location": "Médine"
+      },
+      "2": {
+        "title": "Villa familiale",
+        "location": "Médine"
+      },
+      "3": {
+        "title": "Appartement meublé",
+        "location": "Médine"
+      }
+    }
+  },
+
+  "services": {
+    "eyebrow": "Pourquoi Scany Home",
+    "title": "Une façon plus simple de trouver votre logement",
+    "description": "Nous rendons la recherche immobilière plus claire, rapide et accessible.",
+
+    "choice": {
+      "title": "Large choix",
+      "description": "Découvrez des appartements, villas et logements meublés."
+    },
+
+    "trusted": {
+      "title": "Annonces claires",
+      "description": "Des informations détaillées pour vous aider à choisir votre logement."
+    },
+
+    "languages": {
+      "title": "Multilingue",
+      "description": "Scany Home est disponible en arabe, anglais, français, russe et ourdou."
+    },
+
+    "support": {
+      "title": "Contact facile",
+      "description": "Contactez rapidement notre équipe lorsqu'un logement vous intéresse."
+    }
+  },
+
+  "footer": {
+    "description": "Votre partenaire pour trouver appartements, villas et logements.",
+    "quickLinks": "Liens rapides",
+    "home": "Accueil",
+    "properties": "Logements",
+    "services": "Services",
+    "property": "Immobilier",
+    "apartments": "Appartements",
+    "villas": "Villas",
+    "furnished": "Logements meublés",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "made": "Scany Home"
+  },
+
+  "propertiesPage": {
+    "title": "Trouvez votre prochain logement",
+    "description": "Découvrez les appartements, villas et logements meublés disponibles à Médine.",
+
+    "filters": {
+      "search": "Quartier ou logement...",
+      "type": "Type de logement",
+      "rentType": "Durée de location",
+      "bedrooms": "Chambres",
+      "furnished": "Meublé",
+      "maxPrice": "Prix maximum",
+      "reset": "Réinitialiser les filtres",
+      "label": "Filtres"
+    },
+
+    "types": {
+      "apartment": "Appartement",
+      "villa": "Villa",
+      "studio": "Studio",
+      "house": "Maison"
+    },
+
+    "rent": {
+      "daily": "Journalier",
+      "monthly": "Mensuel",
+      "yearly": "Annuel"
+    },
+
+    "furnished": {
+      "yes": "Meublé",
+      "no": "Non meublé"
+    },
+
+    "results": {
+      "properties": "logements",
+      "description": "Logements correspondant à vos critères"
+    },
+
+    "empty": {
+      "title": "Aucun logement trouvé",
+      "description": "Essayez de modifier vos filtres."
+    }
+  },
+
+  "propertyCard": {
+    "favorite": "Ajouter aux favoris",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de bain",
+    "area": "Surface",
+    "price": "Prix",
+    "whatsapp": "Contacter sur WhatsApp",
+
+    "rent": {
+      "daily": "Journalier",
+      "monthly": "Mensuel",
+      "yearly": "Annuel"
+    }
+  },
+
+  "propertyDetails": {
+    "back": "Retour aux logements",
+    "reference": "Réf.",
+    "price": "Prix",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de bain",
+    "livingRooms": "Salons",
+    "area": "Surface",
+    "floor": "Étage",
+    "description": "Description",
+    "features": "Équipements",
+
+    "types": {
+      "apartment": "Appartement",
+      "villa": "Villa",
+      "studio": "Studio",
+      "house": "Maison"
+    },
+
+    "rent": {
+      "daily": "Location journalière",
+      "monthly": "Location mensuelle",
+      "yearly": "Location annuelle"
+    },
+
+    "featureLabels": {
+      "elevator": "Ascenseur",
+      "parking": "Parking",
+      "airConditioning": "Climatisation",
+      "equippedKitchen": "Cuisine équipée",
+      "internet": "Internet",
+      "waterIncluded": "Eau incluse",
+      "electricityIncluded": "Électricité incluse",
+      "balcony": "Balcon"
+    },
+
+    "contact": {
+      "title": "Ce logement vous intéresse ?",
+      "description": "Contactez directement Scany Home pour vérifier la disponibilité ou organiser une visite.",
+      "whatsapp": "Contacter sur WhatsApp"
+    }
+  }
+}

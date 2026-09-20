@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "services": "Services",
+    "about": "About us",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "badge": "Real estate made simple",
+    "title": "Find a place you'll",
+    "highlight": "love to call home.",
+    "description": "Discover apartments, villas and carefully selected properties with Scany Home.",
+    "location": "Location",
+    "locationPlaceholder": "Search by district",
+    "propertyType": "Property type",
+    "allProperties": "All properties",
+    "apartment": "Apartment",
+    "villa": "Villa",
+    "rent": "Rental period",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "search": "Search",
+    "properties": "Properties",
+    "support": "Support",
+    "languages": "Languages"
+  },
+
+  "featuredProperties": {
+    "eyebrow": "Our properties",
+    "title": "Featured properties",
+    "description": "Explore a selection of properties available through Scany Home.",
+    "viewAll": "View all properties",
+    "available": "Available",
+    "startingFrom": "Starting from",
+    "month": "month",
+
+    "items": {
+      "1": {
+        "title": "Modern apartment",
+        "location": "Madinah"
+      },
+      "2": {
+        "title": "Family villa",
+        "location": "Madinah"
+      },
+      "3": {
+        "title": "Furnished apartment",
+        "location": "Madinah"
+      }
+    }
+  },
+
+  "services": {
+    "eyebrow": "Why Scany Home",
+    "title": "A simpler way to find your home",
+    "description": "We make property discovery clearer, faster and more accessible.",
+
+    "choice": {
+      "title": "Wide selection",
+      "description": "Browse apartments, villas and furnished properties."
+    },
+
+    "trusted": {
+      "title": "Trusted listings",
+      "description": "Clear property information to help you make informed decisions."
+    },
+
+    "languages": {
+      "title": "Multilingual",
+      "description": "Use Scany Home in Arabic, English, French, Russian or Urdu."
+    },
+
+    "support": {
+      "title": "Easy contact",
+      "description": "Contact our team quickly when a property interests you."
+    }
+  },
+
+  "footer": {
+    "description": "Your trusted partner for finding apartments, villas and properties.",
+    "quickLinks": "Quick links",
+    "home": "Home",
+    "properties": "Properties",
+    "services": "Services",
+    "property": "Properties",
+    "apartments": "Apartments",
+    "villas": "Villas",
+    "furnished": "Furnished properties",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "made": "Scany Home"
+  },
+
+  "propertiesPage": {
+    "title": "Find your next property",
+    "description": "Browse apartments, villas and furnished properties available in Madinah.",
+
+    "filters": {
+      "search": "District or property...",
+      "type": "Property type",
+      "rentType": "Rental period",
+      "bedrooms": "Bedrooms",
+      "furnished": "Furnished",
+      "maxPrice": "Max price",
+      "reset": "Reset filters",
+      "label": "Filters"
+    },
+
+    "types": {
+      "apartment": "Apartment",
+      "villa": "Villa",
+      "studio": "Studio",
+      "house": "House"
+    },
+
+    "rent": {
+      "daily": "Daily",
+      "monthly": "Monthly",
+      "yearly": "Yearly"
+    },
+
+    "furnished": {
+      "yes": "Furnished",
+      "no": "Unfurnished"
+    },
+
+    "results": {
+      "properties": "properties",
+      "description": "Properties matching your criteria"
+    },
+
+    "empty": {
+      "title": "No properties found",
+      "description": "Try changing your filters."
+    }
+  },
+
+  "propertyCard": {
+    "favorite": "Add to favorites",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "area": "Area",
+    "price": "Price",
+    "whatsapp": "Contact on WhatsApp",
+
+    "rent": {
+      "daily": "Daily",
+      "monthly": "Monthly",
+      "yearly": "Yearly"
+    }
+  },
+
+  "propertyDetails": {
+    "back": "Back to properties",
+    "reference": "Ref.",
+    "price": "Price",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "livingRooms": "Living rooms",
+    "area": "Area",
+    "floor": "Floor",
+    "description": "Description",
+    "features": "Features",
+
+    "types": {
+      "apartment": "Apartment",
+      "villa": "Villa",
+      "studio": "Studio",
+      "house": "House"
+    },
+
+    "rent": {
+      "daily": "Daily rental",
+      "monthly": "Monthly rental",
+      "yearly": "Yearly rental"
+    },
+
+    "featureLabels": {
+      "elevator": "Elevator",
+      "parking": "Parking",
+      "airConditioning": "Air conditioning",
+      "equippedKitchen": "Equipped kitchen",
+      "internet": "Internet",
+      "waterIncluded": "Water included",
+      "electricityIncluded": "Electricity included",
+      "balcony": "Balcony"
+    },
+
+    "contact": {
+      "title": "Interested in this property?",
+      "description": "Contact Scany Home directly to check availability or arrange a visit.",
+      "whatsapp": "Contact on WhatsApp"
+    }
+  },
+  "aboutPage": {
+  "badge": "About Scany Home",
+  "title": "Making real estate in Madinah simpler and more accessible",
+  "description": "Scany Home helps residents, newcomers and families find suitable accommodation in Madinah through a simple, transparent and multilingual experience.",
+  "viewProperties": "View properties",
+  "contact": "Contact us",
+
+  "stats": {
+    "properties": "Available properties",
+    "languages": "Available languages",
+    "support": "Support",
+    "local": "Local presence"
+  },
+
+  "story": {
+    "eyebrow": "Our mission",
+    "title": "Making property search easier in Madinah",
+    "description1": "Finding the right home can quickly become complicated, especially when moving to a new city or dealing with a language barrier.",
+    "description2": "Scany Home brings essential property information together in one place so customers can compare homes, explore their locations and contact our team easily."
+  },
+
+  "values": {
+    "simple": {
+      "title": "Simple property search",
+      "description": "Clear filters, an interactive map and useful information help you find the right property faster."
+    },
+    "trusted": {
+      "title": "Clear information",
+      "description": "Prices, locations, amenities and property details are presented clearly and transparently."
+    },
+    "languages": {
+      "title": "Accessible to everyone",
+      "description": "Our platform is available in Arabic, English, French, Russian and Urdu."
+    },
+    "support": {
+      "title": "Human support",
+      "description": "Our team remains easy to reach for property enquiries and viewing arrangements."
+    }
+  },
+
+  "why": {
+    "eyebrow": "Scany Home",
+    "title": "An experience designed for Madinah's property market",
+    "description": "Our goal is to make it easier for people searching for accommodation to connect with available properties across the city.",
+
+    "items": {
+      "local": {
+        "title": "Local knowledge",
+        "description": "Properties across different areas of Madinah with location information that is easy to understand."
+      },
+      "accessible": {
+        "title": "Built for different communities",
+        "description": "A multilingual platform that helps more people search for accommodation with ease."
+      },
+      "clear": {
+        "title": "Transparent property search",
+        "description": "Key property details are immediately visible, making comparison and decision-making easier."
+      }
+    }
+  },
+
+  "cta": {
+    "title": "Looking for a home in Madinah?",
+    "description": "Explore available properties and discover the one that best fits your needs.",
+    "button": "Explore properties"
+  }
+}
+}

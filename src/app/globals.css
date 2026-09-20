@@ -1,0 +1,62 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+:root {
+  --background: #f7f9fc;
+  --foreground: #162033;
+
+  --primary: #148ad7;
+  --primary-dark: #0874be;
+
+  --cyan: #25c6e6;
+
+  --gold: #e7aa39;
+  --gold-light: #f5c76a;
+
+  --border: #e9edf3;
+
+  --muted: #667085;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-inter), Arial, sans-serif;
+}
+
+html[dir="rtl"] body {
+  font-family: var(--font-arabic), Arial, sans-serif;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+::selection {
+  background: #148ad7;
+  color: white;
+}
+
+.leaflet-container {
+  font-family: inherit;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 18px;
+}
+
+.leaflet-popup-content {
+  margin: 14px;
+}
