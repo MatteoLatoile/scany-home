@@ -193,5 +193,73 @@
       "description": "Contactez directement Scany Home pour vérifier la disponibilité ou organiser une visite.",
       "whatsapp": "Contacter sur WhatsApp"
     }
+  },
+  "aboutPage": {
+  "badge": "À propos de Scany Home",
+  "title": "L'immobilier à Médine, plus simple et plus accessible",
+  "description": "Scany Home accompagne résidents, nouveaux arrivants et familles dans leur recherche de logement à Médine grâce à une expérience simple, claire et multilingue.",
+  "viewProperties": "Voir les logements",
+  "contact": "Nous contacter",
+
+  "stats": {
+    "properties": "Logements disponibles",
+    "languages": "Langues disponibles",
+    "support": "Assistance",
+    "local": "Présence à Médine"
+  },
+
+  "story": {
+    "eyebrow": "Notre mission",
+    "title": "Simplifier la recherche immobilière à Médine",
+    "description1": "Trouver un logement peut rapidement devenir compliqué, particulièrement lorsque l'on découvre une nouvelle ville ou que l'on ne maîtrise pas encore la langue.",
+    "description2": "Scany Home rassemble les informations essentielles au même endroit afin de permettre aux clients de comparer les logements, découvrir leur localisation et contacter facilement notre équipe."
+  },
+
+  "values": {
+    "simple": {
+      "title": "Recherche simplifiée",
+      "description": "Des filtres clairs, une carte interactive et des informations utiles pour trouver rapidement le logement adapté."
+    },
+    "trusted": {
+      "title": "Informations claires",
+      "description": "Prix, localisation, équipements et caractéristiques sont présentés de manière simple et transparente."
+    },
+    "languages": {
+      "title": "Accessible à tous",
+      "description": "Notre plateforme est disponible en arabe, anglais, français, russe et ourdou."
+    },
+    "support": {
+      "title": "Accompagnement humain",
+      "description": "Notre équipe reste facilement accessible pour répondre aux questions et organiser les visites."
+    }
+  },
+
+  "why": {
+    "eyebrow": "Scany Home",
+    "title": "Une expérience pensée pour le marché immobilier de Médine",
+    "description": "Notre objectif est de faciliter la mise en relation entre les personnes à la recherche d'un logement et les biens disponibles dans la ville.",
+
+    "items": {
+      "local": {
+        "title": "Connaissance locale",
+        "description": "Des logements situés dans différents quartiers de Médine avec des informations de localisation faciles à comprendre."
+      },
+      "accessible": {
+        "title": "Pensé pour plusieurs communautés",
+        "description": "Une plateforme multilingue permettant à davantage de personnes de chercher un logement facilement."
+      },
+      "clear": {
+        "title": "Une recherche transparente",
+        "description": "Les principales caractéristiques du logement sont visibles immédiatement pour faciliter la comparaison."
+      }
+    }
+  },
+
+  "cta": {
+    "title": "Vous recherchez un logement à Médine ?",
+    "description": "Découvrez les biens disponibles et trouvez celui qui correspond à vos besoins.",
+    "button": "Découvrir les logements"
   }
 }
+}
+
